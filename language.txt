@@ -2,7 +2,6 @@ languages:
 
 java
 python
-golang
 c sharp
 groovy on grails
 
